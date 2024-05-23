@@ -15,14 +15,14 @@ The controller breakout provides sensor connectivity, power distribution, and in
 
 ## Bill of Materials
 
-| **RefDes**     | **Value**     | **Footprint** | **Quantity** | **Description**                       |
-|----------------|---------------|---------------|--------------|---------------------------------------|
-| C1-C4          | 22µF          | SMD 0805      | 4            | Power filtering capacitors            |
-| R1,R2,R5,R6    | 10KΩ          | SMD 0805      | 4            | Pull-up resistors                     |
-| R3,R4          | 470Ω          | SMD 0805      | 2            | APA102 impedance matching resistors   |
-| LED1-2         |               | SMD 0805      | 2            | Indicator LEDs. Type does not matter. |
-| LEDPWR, BCKPWR | AMASS XT30U-F | Through-Hole  | 2            | Power in and out                      |
-| I2C1-4         | JST S4B-XH-A  | Through-Hole  | 4            | I2C Devices                           |
+| **RefDes**     | **Value**     | **Footprint** | **Quantity** | **Description**                        |
+|----------------|---------------|---------------|--------------|----------------------------------------|
+| C1-C4          | 22µF          | SMD 0805      | 4            | Power filtering capacitors             |
+| R1,R2,R5,R6    | 10KΩ          | SMD 0805      | 4            | Pull-up resistors                      |
+| R3,R4          | 470Ω          | SMD 0805      | 2            | APA102 impedance matching resistors    |
+| LED1-2         |               | SMD 0805      | 2            | Indicator LEDs. Color does not matter. |
+| LEDPWR, BCKPWR | AMASS XT30U-F | Through-Hole  | 2            | Power in and out                       |
+| I2C1-4         | JST S4B-XH-A  | Through-Hole  | 4            | I2C Devices                            |
 
 ## Power Setup
 
